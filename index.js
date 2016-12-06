@@ -12,9 +12,7 @@
 * Fill out the values for these with your own data or make it up.
 *
 * It should be a String. 
-
 **/
-
 
 
 /**
@@ -27,7 +25,6 @@
 **/
 
 
-
 /**
 * #3
 * Variables with a Boolean value
@@ -38,21 +35,20 @@
 **/
 
 
-
 /**
 * #4
 * Variables with a Null value
 *
 * Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
 *
-* Their values should be a Null value
+* Their values should be Null 
 **/
+
 
 /*
 #5. 
 * What is the difference between null and undefined?
 */
-
 
 
 /**
@@ -65,20 +61,19 @@
 * Declare a variable named `lotteryResult and assign it with 5 random numbers.
 * Declare a variable named `duets` and assign it with 3 arrays, each containing names of 2 singers or bands.
 * Declare a variable named `mixPlate` and assign it with different data types of your choosing.
-
 **/
 
 
 /*7
 * Accessing Values in Arrays
 
-var partyList = ["carrot cake", "rocky road ice cream", "mochiko chicken", "tang", "lemon bars"];
+var partyList = ["carrot cake", "rocky road ice cream", "mochiko chicken", "orange tang", "lemon bars"];
 
 What is the length of this array? Please console.log the length only.
 What index position is carrot cake? Please console.log this item.
 What index position is lemon bars? Please console.log this item.
-
 */
+
 
 /*
 * #8 
@@ -90,15 +85,22 @@ What index position is lemon bars? Please console.log this item.
  
 *Concatenate the variables `mariahCareyAge`, `favSneaker`, `favLoveSong` and `coffeeShop` to create the following sentence:
 At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
-
 */
 
 
-
 /**
-* #6a Arithmetic
-* Variables with the outcome of an arithmetic operation:
-*
+* #9 Arithmetic
+* Variables with the outcome of an arithmetic operation.
+* Declare two variables, `num1` and `num2` and assign each of these variables a number of your choosing.
+* Next perform the following arithmetic operations:
+
+* Add the two variables and store it to new variable named sum.
+* Subtract the two variables and store it to a new variable named difference.
+* Mulitply the two variables and store it to a new variable named product.
+* Divide the two variables and store it to a new variable named quotent.
+* What is the remainder when you divide num1 by num2?
+
+
 * Declare a variable named `sumOfNumbers` which is a Number. This Number
 * contains the result of performing an arithmetic operation on two numbers.
 * Have this variable store the result of adding 3 numbers of your choosing.
