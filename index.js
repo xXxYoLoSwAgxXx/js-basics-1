@@ -106,10 +106,15 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * Comparisons & Logic
 * Variables with the outcome of a comparison operation:
 *
-* Declare a variable named `isEqual` which is a Boolean. This Boolean
-* contains the result of performing a comparison to test if two strings
-* are equal. We want to compare the two strings "Tacocat" and "tacocat" and
-* `console.log()` the result.
+* Declare a variable named isEqual and compare two strings "Tacocat" and "tacocat" using the strict equality.
+* Declare another variable named isEqualed and compare the two strings "Tacocat" and "tacocat" using equality.
+* Console.log both variables. What are the differences between the two and why?
+
+* Declare a variable named sameNum and compare a string "5" and a number 5 using strict equality.
+* Declare another variable named sameNumba and compare a string "5" and a number 5 using equality.
+* Console.log both variables. What are the differences between the two and why?
+
+
 *
 * NOTE:
 *   There is no test which tests your console.log()'s output'.
