@@ -137,28 +137,27 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 *
 
 
-
 /**
 * Final Boss 
-* Additional exercises designed to challenge you and give you a jump start on the next topic that'll be covered.
-* Declare Functions
+* Additional exercises designed to further challenge you and give you a jump start on the next topic that'll be covered.
+* Function - A block of code designed to perform a particular task. It allows you to reuse code.
 *
-* Declare a Function named `jump` which takes a single argument, `height`
-*
-* This function should return a String, "You jumped 9 feet high!"
-* if invoked in this way -> jump(9);
-*
-* Store the return value to a variable named `jumpResult` and use console.log to inspect the value which was returned by your function
-**/
+* Declare a function named bakePie which has a single parameter 'ingredient'.
+* When the function is invoked, it should return a string, "Today's special ingredient pie." Where ingredient will be the value that you pass into the function.
+* For example, if the value is `blueberry`, it should return "Today's special blueberry pie."
+* Declare a variable 'pieResult' and assign it to the function call.
+* Console.log the variable to see the result.
 
 
-
-/**
-
-
+* Declare a Function named `jump` which has a single parameter, `height`.
+* This function should return a string, "You jumped height feet high!" Where height will be the value that you pass into the function.
+* For example, if the value is 9, it should return "You jumped 9 feet high!"
 *
-* Declare a Function named `cook` which a takes three arguments/parameters, `ingredient1`, `ingredient2`, `recipeName`
-*
+* Declare a variable 'jumpResult' and assign it to the function call.
+* Console.log the variable to see the result.
+
+
+* Declare a Function named `cook` which a takes three parameters, `ingredient1`, `ingredient2`, `recipeName`.
 * This function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
