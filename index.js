@@ -48,13 +48,15 @@
 * Their values should be a Null value
 **/
 
-/*What is the difference between null and undefined?*/
+/*
+#5. What is the difference between null and undefined?
+*/
 
 
 
 /**
-* #5a
-* Variables with an Array for it's value. This Array will contain:
+* #6
+* Variables with an Array value
 *
 * Declare a variable named `westCoast` which is an Array.
 * This Array contains the names of all the states
