@@ -101,18 +101,9 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * What is the remainder when you divide num1 by num2?
 
 
-* Declare a variable named `sumOfNumbers` which is a Number. This Number
-* contains the result of performing an arithmetic operation on two numbers.
-* Have this variable store the result of adding 3 numbers of your choosing.
-*
-* Extend this behavior to include subtraction, multiplication and division.
-*/
-
-
-
-
 /**
-* #6b Comparisons & Logic
+* #10
+* Comparisons & Logic
 * Variables with the outcome of a comparison operation:
 *
 * Declare a variable named `isEqual` which is a Boolean. This Boolean
@@ -150,7 +141,8 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 
 
 /**
-* #7a
+* Final Boss 
+* Additional exercises designed to challenge you and give you a jump start on the next topic that'll be covered.
 * Declare Functions
 *
 * Declare a Function named `jump` which takes a single argument, `height`
@@ -164,8 +156,8 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 
 
 /**
-* #7b
-* Declare Functions
+
+
 *
 * Declare a Function named `cook` which a takes three arguments/parameters, `ingredient1`, `ingredient2`, `recipeName`
 *
