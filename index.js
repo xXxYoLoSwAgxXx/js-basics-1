@@ -43,7 +43,7 @@
 * #4
 * Variables with a Null value
 *
-* Declare variables named `completedPrepClass`, `traveledToMars` and `scoredInNFL`
+* Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
 *
 * Their values should be a Null value
 **/
@@ -57,22 +57,23 @@
 /**
 * #6
 * Variables with an Array value
-*
-* Declare a variable named `westCoast` which is an Array.
-* This Array contains the names of all the states
-* which can be found along the west coast of The United States.
+* 
+* Declare a variable named 'plateLunch` and assign it with 5 of your favorite lunch items.
+* Declare a variavle named `fruitBasket` and assign it with 5 fruits of your choosing.
+* Declare a variable named `westCoast` and assign it with states found on the west coast of the US.
+* Declare a variable named `lotteryResult and assign it with 5 random numbers.
+* Declare a variable named `duets` and assign it with 3 arrays, each containing names of 2 singers or bands.
+* Declare a variable named `mixPlate` and assign it with different data types of your choosing.
+
 **/
 
+/*
+* #7 Concatenation 
 
 
-/**
-* #5b
-* Variables with an Array for it's value. This Array will contain:
-*
-* Declare a variable named `evenNumbers` which is an Array.
-* This Array contains numbers that are considered 'even values'.
-* Have at least ten even values in this array.
-**/
+
+
+*/
 
 
 
