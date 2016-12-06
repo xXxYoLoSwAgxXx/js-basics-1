@@ -6,7 +6,7 @@
 
 /**
 * #1
-* Variables with a String as their value
+* Variables with a String value
 *
 * Declare variables named `firstName`, `lastName`, `birthPlace`, `favoriteFood`, `bestMovie`, `favLoveSong`, `cuteAnimal`, `favColor`, `favSneaker`, `coffeeShop`.
 * Fill out the values for these with your own data or make it up.
@@ -19,9 +19,9 @@
 
 /**
 * #2
-* Variables with a Number as their value
+* Variables with a Number value
 *
-* Declare variables named `favoriteNumber`, `currentYear`, `thatOnePrinceSong`, 'tokyoOlympics`, `mariahCareyAge`, `currentTemp` and `studentsInClass`.
+* Declare variables named `favoriteNumber`, `currentYear`, `thatOnePrinceSong`, 'tokyoOlympics`, `mariahCareyAge`, `currentTemp`, `studentsInClass`, `numOfJapanPrefectures`, `currentIphoneModel` and `shoeSize`.     
 *
 * Their values should be a Number
 **/
@@ -30,10 +30,9 @@
 
 /**
 * #3
-* Variables with Boolean values
+* Variables with a Boolean value
 *
-* Declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`,
-* and `isHappyCoding`
+* Declare variables named `likesMcDonalds`, `watchedMrRobot`, `ranMarathon`, `wrestledABear`, `lovesDonuts`, `readHarryPotter`, `sleptInClass`, `drinksCoffee`, `shopsAtWholeFoods` and `ownsRedShoes`.     
 *
 * Their values should be a Boolean
 **/
@@ -42,12 +41,14 @@
 
 /**
 * #4
-* Variables with null
+* Variables with a Null value
 *
-* Declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
+* Declare variables named `completedPrepClass`, `traveledToMars` and `scoredInNFL`
 *
 * Their values should be a Null value
 **/
+
+/*What is the difference between null and undefined?*/
 
 
 
