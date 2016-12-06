@@ -69,9 +69,13 @@
 
 /*
 * #7 Concatenation 
+* Concatenate the variables `firstName` and `lastName` and store this to a new variable called `fullName`.
 
-
-
+* Concatenate the variables `fullName` and `birthPlace` to create the following sentence:
+ xx xx is from xx.
+ 
+*Concatenate the variables `mariahCareyAge`, `favSneaker`, `favLoveSong` and `coffeeShop` to create the following sentence:
+At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 
 */
 
