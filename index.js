@@ -1,8 +1,10 @@
 /* Variables and Data Types */
 /*Console.log each variable and test your code in the terminal using the Node REPL*/
 
-/*i.e. var pet = 'dog';
-       console.log(pet);  */
+/*i.e.*/
+
+var pet = "sebastian the pug";
+console.log(pet);
 
 /**
 * #1
@@ -114,34 +116,25 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * Declare another variable named sameNumba and compare a string "5" and a number 5 using equality.
 * Console.log both variables. What are the differences between the two and why?
 
-
-*
-* NOTE:
-*   There is no test which tests your console.log()'s output'.
-*   Also, there are zero tests for the BONUS below.
-*
-* BONUS:
-*   See if you can come up with a few examples of double comparison
-*   operator(==) vs triple comparison operator(===).
-*/
-
+* Use the logical and && and or || and compare the following:
+* 3>2 3<1 (use or)
+* 3>2 6>3 (use and)
+* 7>2 8<5 (use and)
+* Declare variables and console.log the results. What are the differences between the three and why?
 
 
 /**
-* #6c Assignments
+* #11
+* Assignments
 * Variables with the outcome of an assignment operation:
 *
-* Declare a variable named `generalContainer`. This variable will be used to store multiple types of
-* values as we assign them to show how variables in JavaScript are not bound to a single data type
+* Declare a variable named `myBox` and assign it with a number of your choosing.
+* This variable will be used to store multiple types of values as we assign them to show how variables in JavaScript are not bound to a single data type
 * and can change values.
-*
+
 * Write 5 different assignment statements and `console.log()` the value of the variable after each
 * assignment statement to show the current value.
 *
-* NOTE:
-*   The tests for this section cannot test your variable as it changes,
-*   it can only test that you declared the variable by giving it the right name.
-*/
 
 
 
