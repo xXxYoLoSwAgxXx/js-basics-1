@@ -49,7 +49,8 @@
 **/
 
 /*
-#5. What is the difference between null and undefined?
+#5. 
+* What is the difference between null and undefined?
 */
 
 
@@ -67,8 +68,21 @@
 
 **/
 
+
+/*7
+* Accessing Values in Arrays
+
+var partyList = ["carrot cake", "rocky road ice cream", "mochiko chicken", "tang", "lemon bars"];
+
+What is the length of this array? Please console.log the length only.
+What index position is carrot cake? Please console.log this item.
+What index position is lemon bars? Please console.log this item.
+
+*/
+
 /*
-* #7 Concatenation 
+* #8 
+* Concatenation 
 * Concatenate the variables `firstName` and `lastName` and store this to a new variable called `fullName`.
 
 * Concatenate the variables `fullName` and `birthPlace` to create the following sentence:
