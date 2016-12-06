@@ -12,7 +12,7 @@
     - cd js-basics
 4. Open the js-basics assignment in sublime and write your code in the index.js file
 5. Run node in your terminal to test your code:
-   - $cd js-basics
+   - $ cd js-basics
    - node index.js (don't forget to console.log your work)
    
 
