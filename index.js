@@ -11,9 +11,9 @@ console.log(pet);
 * Variables with a String value
 *
 * Declare variables named `firstName`, `lastName`, `birthPlace`, `favoriteFood`, `bestMovie`, `favLoveSong`, `cuteAnimal`, `favColor`, `favSneaker`, `coffeeShop`.
-* Fill out the values for these with your own data or make it up.
+* Assign values for these variables with your own data.
 *
-* It should be a String. 
+* Values should be a String. 
 **/
 
 
@@ -23,7 +23,7 @@ console.log(pet);
 *
 * Declare variables named `favoriteNumber`, `currentYear`, `thatOnePrinceSong`, 'tokyoOlympics`, `mariahCareyAge`, `currentTemp`, `studentsInClass`, `numOfJapanPrefectures`, `currentIphoneModel` and `shoeSize`.     
 *
-* Their values should be a Number
+* Values should be a Number
 **/
 
 
@@ -33,7 +33,7 @@ console.log(pet);
 *
 * Declare variables named `likesMcDonalds`, `watchedMrRobot`, `ranMarathon`, `wrestledABear`, `lovesDonuts`, `readHarryPotter`, `sleptInClass`, `drinksCoffee`, `shopsAtWholeFoods` and `ownsRedShoes`.     
 *
-* Their values should be a Boolean
+* Values should be a Boolean
 **/
 
 
@@ -43,7 +43,7 @@ console.log(pet);
 *
 * Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
 *
-* Their values should be Null 
+* Values should be Null 
 **/
 
 
