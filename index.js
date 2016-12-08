@@ -11,9 +11,9 @@ console.log(pet);
 * Variables with a String value
 *
 * Declare variables named `firstName`, `lastName`, `birthPlace`, `favoriteFood`, `bestMovie`, `favLoveSong`, `cuteAnimal`, `favColor`, `favSneaker`, `coffeeShop`.
-* Assign values for these variables with your own data.
+* Assign values to these variables with your own data.
 *
-* Values should be a String. 
+* Each value should be a String. 
 **/
 
 
@@ -23,7 +23,7 @@ console.log(pet);
 *
 * Declare variables named `favoriteNumber`, `currentYear`, `thatOnePrinceSong`, 'tokyoOlympics`, `mariahCareyAge`, `currentTemp`, `studentsInClass`, `numOfJapanPrefectures`, `currentIphoneModel` and `shoeSize`.     
 *
-* Values should be a Number
+* Each value should be a Number
 **/
 
 
@@ -33,7 +33,7 @@ console.log(pet);
 *
 * Declare variables named `likesMcDonalds`, `watchedMrRobot`, `ranMarathon`, `wrestledABear`, `lovesDonuts`, `readHarryPotter`, `sleptInClass`, `drinksCoffee`, `shopsAtWholeFoods` and `ownsRedShoes`.     
 *
-* Values should be a Boolean
+* Each value should be a Boolean
 **/
 
 
@@ -43,13 +43,13 @@ console.log(pet);
 *
 * Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
 *
-* Values should be Null 
+* Each values should be Null 
 **/
 
 
 /*
 #5. 
-* What is the difference between null and undefined?
+* What is the difference between null and undefined? Type your answer in two or three commented-out sentences.
 */
 
 
@@ -57,13 +57,14 @@ console.log(pet);
 * #6
 * Variables with an Array value
 * 
-* Declare a variable named 'plateLunch` and assign it with 5 of your favorite lunch items.
-* Declare a variavle named `fruitBasket` and assign it with 5 fruits of your choosing.
-* Declare a variable named `westCoast` and assign it with states found on the west coast of the US.
-* Declare a variable named `lotteryResult and assign it with 5 random numbers.
-* Declare a variable named `duets` and assign it with 3 arrays, each containing names of 2 singers or bands.
-* Declare a variable named `mixPlate` and assign it with different data types of your choosing.
+* Declare a variable named 'plateLunch` and assign it an array containing 5 of your favorite lunch items.
+* Declare a variavle named `fruitBasket` and assign it an array containing 5 fruits of your choosing.
+* Declare a variable named `westCoast` and assign it an array containing states found on the west coast of the US.
+* Declare a variable named `lotteryResult and assign it an array containing 5 random numbers.
+* Declare a variable named `duets` and assign it an array containing 3 nested arrays, each containing the names of 2 singers or bands.
+* Declare a variable named `mixPlate` and assign it an array containing different data types of your choosing.
 **/
+
 
 
 /*7
@@ -71,10 +72,11 @@ console.log(pet);
 
 var partyList = ["carrot cake", "rocky road ice cream", "mochiko chicken", "orange tang", "lemon bars"];
 
-What is the length of this array? Please console.log the length only.
-What index position is carrot cake? Please console.log this item.
-What index position is lemon bars? Please console.log this item.
+What is the length of this array? Please print the length (a number) to the console.
+What is the index position of carrot cake? Please print this item to the console.
+What is the index position of lemon bars? Please print this item to the console.
 */
+
 
 
 /*
@@ -82,12 +84,15 @@ What index position is lemon bars? Please console.log this item.
 * Concatenation 
 * Concatenate the variables `firstName` and `lastName` and store this to a new variable called `fullName`.
 
-* Concatenate the variables `fullName` and `birthPlace` to create the following sentence:
+* Declare a new variable, `whereFrom`, and assign it the value of a string using the variables `fullName` and `birthPlace`:
  xx xx is from xx.
+ e.g.
+ Usain Bolt is from Jamaica.
  
-*Concatenate the variables `mariahCareyAge`, `favSneaker`, `favLoveSong` and `coffeeShop` to create the following sentence:
-At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
+*Declare a new variable, `mariahStory`. Assign it the value of concatenating the variables `mariahCareyAge`, `favSneaker`, `favLoveSong` and `coffeeShop` to create the following sentence:
+At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 */
+
 
 
 /**
@@ -96,11 +101,12 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * Declare two variables, `num1` and `num2` and assign each of these variables a number of your choosing.
 * Next perform the following arithmetic operations:
 
-* Add the two variables and store it to new variable named sum.
-* Subtract the two variables and store it to a new variable named difference.
-* Mulitply the two variables and store it to a new variable named product.
-* Divide the two variables and store it to a new variable named quotent.
-* What is the remainder when you divide num1 by num2?
+* Add the two variables and store it to new variable named `sum`.
+* Subtract the two variables and store it to a new variable named `difference`.
+* Mulitply the two variables and store it to a new variable named `product`.
+* Divide the two variables and store it to a new variable named `quotient`.
+* What is the remainder when you divide num1 by num2? Print your answer to the console.
+
 
 
 /**
@@ -108,19 +114,22 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * Comparisons & Logic
 * Variables with the outcome of a comparison operation:
 *
-* Declare a variable named isEqual and compare two strings "Tacocat" and "tacocat" using the strict equality.
-* Declare another variable named isEqualed and compare the two strings "Tacocat" and "tacocat" using equality.
-* Console.log both variables. What are the differences between the two and why?
+* Declare a variable named `isStrictlyEqual` and compare two strings "Tacocat" and "tacocat" using the strict equality.
+* Declare another variable named `isLooselyEqual` and compare the two strings "Tacocat" and "tacocat" using equality.
+* Print both variables to the console. If the answers are different, why? If not, why not? Write you answer two or three commented-out sentences.
 
-* Declare a variable named sameNum and compare a string "5" and a number 5 using strict equality.
-* Declare another variable named sameNumba and compare a string "5" and a number 5 using equality.
-* Console.log both variables. What are the differences between the two and why?
+* Declare a variable named `sameNum` and compare a string "5" and a number 5 using strict equality.
+* Declare another variable named `sameNumba` and compare a string "5" and a number 5 using equality.
+* Print both variables to the console. If the answers are different, why? If not, why not? Write you answer two or three commented-out sentences.
+
+
 
 * Use the logical and && and or || and compare the following:
 * 3>2 3<1 (use or)
 * 3>2 6>3 (use and)
 * 7>2 8<5 (use and)
-* Declare variables and console.log the results. What are the differences between the three and why?
+* Declare variables and print the results to the console. What are the differences between the three and why?
+
 
 
 /**
@@ -133,8 +142,9 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * and can change values.
 
 * Write 5 different assignment statements and `console.log()` the value of the variable after each
-* assignment statement to show the current value.
+* assignment statement to show the current value. REMEMBER: an assignment is DIFFERENT from a declaration.
 *
+
 
 
 /**
@@ -142,7 +152,7 @@ At the age of xx, Mariah Carey, wearing her fancy xx sang xx at the xx.
 * Additional exercises designed to further challenge you and give you a jump start on the next topic that'll be covered.
 * Function - A block of code designed to perform a particular task. It allows you to reuse code.
 *
-* Declare a function named bakePie which has a single parameter 'ingredient'.
+* Declare a function named `bakePie` which has a single parameter 'ingredient'.
 * When the function is invoked, it should return a string, "Today's special ingredient pie." Where ingredient will be the value that you pass into the function.
 * For example, if the value is `blueberry`, it should return "Today's special blueberry pie."
 * Declare a variable 'pieResult' and assign it to the function call.
