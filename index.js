@@ -43,7 +43,7 @@ console.log(pet);
 *
 * Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
 *
-* Each values should be Null 
+* Each value should be Null 
 **/
 
 
