@@ -124,7 +124,7 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 
 
 
-* Use the logical and && and or || and compare the following:
+* Use the logical && or || and compare the following:
 * 3>2 3<1 (use or)
 * 3>2 6>3 (use and)
 * 7>2 8<5 (use and)
@@ -144,8 +144,6 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 * Write 5 different assignment statements and `console.log()` the value of the variable after each
 * assignment statement to show the current value. REMEMBER: an assignment is DIFFERENT from a declaration.
 *
-
-
 
 /**
 * Final Boss 
