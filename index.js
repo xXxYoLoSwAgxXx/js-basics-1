@@ -95,7 +95,7 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 
 
 
-/**
+/*
 * #9 Arithmetic
 * Variables with the outcome of an arithmetic operation.
 * Declare two variables, `num1` and `num2` and assign each of these variables a number of your choosing.
@@ -106,10 +106,10 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 * Mulitply the two variables and store it to a new variable named `product`.
 * Divide the two variables and store it to a new variable named `quotient`.
 * What is the remainder when you divide num1 by num2? Print your answer to the console.
+*/
 
 
-
-/**
+/*
 * #10
 * Comparisons & Logic
 * Variables with the outcome of a comparison operation:
@@ -121,18 +121,18 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 * Declare a variable named `sameNum` and compare a string "5" and a number 5 using strict equality.
 * Declare another variable named `sameNumba` and compare a string "5" and a number 5 using equality.
 * Print both variables to the console. If the answers are different, why? If not, why not? Write you answer two or three commented-out sentences.
+*/
 
-
-
+/*
 * Use the logical && or || and compare the following:
 * 3>2 3<1 (use or)
 * 3>2 6>3 (use and)
 * 7>2 8<5 (use and)
-* Declare variables and print the results to the console. What are the differences between the three and why?
+* Declare variables and print the results to the console. What are the differences between the three and why?*/
 
 
 
-/**
+/*
 * #11
 * Assignments
 * Variables with the outcome of an assignment operation:
@@ -143,9 +143,9 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 
 * Write 5 different assignment statements and `console.log()` the value of the variable after each
 * assignment statement to show the current value. REMEMBER: an assignment is DIFFERENT from a declaration.
-*
+*/
 
-/**
+/*
 * Final Boss 
 * Additional exercises designed to further challenge you and give you a jump start on the next topic that'll be covered.
 * Function - A block of code designed to perform a particular task. It allows you to reuse code.
@@ -154,19 +154,23 @@ At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
 * When the function is invoked, it should return a string, "Today's special ingredient pie." Where ingredient will be the value that you pass into the function.
 * For example, if the value is `blueberry`, it should return "Today's special blueberry pie."
 * Declare a variable 'pieResult' and assign it to the function call.
-* Console.log the variable to see the result.
+* Console.log the variable to see the result.*/
 
 
+/*
 * Declare a Function named `jump` which has a single parameter, `height`.
 * This function should return a string, "You jumped height feet high!" Where height will be the value that you pass into the function.
 * For example, if the value is 9, it should return "You jumped 9 feet high!"
-*
+
+
+
 * Declare a variable 'jumpResult' and assign it to the function call.
-* Console.log the variable to see the result.
+* Console.log the variable to see the result.*/
 
 
+/*
 * Declare a Function named `cook` which a takes three parameters, `ingredient1`, `ingredient2`, `recipeName`.
 * This function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
-**/
+*/
 
