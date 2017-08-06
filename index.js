@@ -20,18 +20,19 @@ console.log(pet);  // <= this should print out sebastian the pug
 * Declare variables named firstName, lastName, birthPlace, favFood, favDrink, favSong, favAnimal, favColor, favSport, favDoughnut.
 
 * Assign your own string values to each variable and console.log each variable.
-
 **/
+
 
 
 /**
 * #2
 * Variables with a Number value
 *
-* Declare variables named `favoriteNumber`, `currentYear`, `thatOnePrinceSong`, 'tokyoOlympics`, `mariahCareyAge`, `currentTemp`, `studentsInClass`, `numOfJapanPrefectures`, `currentIphoneModel` and `shoeSize`.     
+* Declare variables named favNumber, thatOnePrinceSong, floorsAlaMoanaHotel, numOfJapanPrefectures, yourShoeSize, numOfABCstoresinHi, cheesecakesAtCheeseCakeFac
 *
-* Each value should be a Number
+* Assign your own number values to each variable and console.log each variable.
 **/
+
 
 
 /**
