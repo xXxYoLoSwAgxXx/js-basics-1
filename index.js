@@ -13,29 +13,29 @@
 var pet = "sebastian the pug";
 console.log(pet);  // <= this should print out sebastian the pug
 
-/**
+/*
 * #1
 * Variables with a "String" value
 
 * Declare variables named firstName, lastName, birthPlace, favFood, favDrink, favSong, favAnimal, favColor, favSport, favDoughnut.
 
 * Assign your own string values to each variable and console.log each variable.
-**/
+*/
 
 
 
-/**
+/*
 * #2
 * Variables with a Number value
 *
 * Declare variables named favNumber, yourShoeSize, thatOnePrinceSong, floorsAlaMoanaHotel, numOfJapanPrefectures, numOfABCstoresinHi, and cheesecakesFlavAtCheeseCakeFac
 *
 * Assign your own number values to each variable and console.log each variable.
-**/
+*/
 
 
 
-/**
+/*
 * #3
 * Variables with a Boolean value
 *
@@ -48,7 +48,7 @@ console.log(pet);  // <= this should print out sebastian the pug
 *
 * Console.log each variable.
 *
-**/
+*/
 
 //For example:
 //Make me True:
@@ -72,14 +72,26 @@ var booya6;
 
 
 
-/**
+/*
 * #4
 * Variables with a Null value
 *
 * Declare variables named completedPrepClass, traveledToMars and buyVicADrink.
 *
 * Assign a null value to each variable and console.log each variable. 
-**/
+*/
+
+
+
+/*
+* #5
+* Variables with a undefined value.
+*
+* Declare a variable named superBowlChamps, nextPres and hawaiiRail.
+*
+* Do not assign a value to the variable and console.log each variable.
+*
+*/
 
 
 
@@ -87,12 +99,14 @@ var booya6;
 * #6
 * Variables with an Array value
 * 
-* Declare a variable named 'plateLunch` and assign it an array containing 5 of your favorite lunch items.
-* Declare a variavle named `fruitBasket` and assign it an array containing 5 fruits of your choosing.
+* Declare a variable named plateLunch and assign it an array containing 5 of your favorite lunch items.
+* Declare a variable named `donutBox` and assign it an array containing 5 donuts of your choosing.
 * Declare a variable named `westCoast` and assign it an array containing states found on the west coast of the US.
 * Declare a variable named `lotteryResult and assign it an array containing 5 random numbers.
-* Declare a variable named `duets` and assign it an array containing 3 nested arrays, each containing the names of 2 singers or bands.
-* Declare a variable named `mixPlate` and assign it an array containing different data types of your choosing.
+* Declare a variable named `hamajang` and assign it an array containing 6 different data types.
+* Declare a variable named `dynamicDuos` and assign it an array containing 3 arrays, with each array containing items that match with one another.
+*
+* Console.log each variable.
 **/
 
 
