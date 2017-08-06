@@ -28,7 +28,7 @@ console.log(pet);  // <= this should print out sebastian the pug
 * #2
 * Variables with a Number value
 *
-* Declare variables named favNumber, thatOnePrinceSong, floorsAlaMoanaHotel, numOfJapanPrefectures, yourShoeSize, numOfABCstoresinHi, cheesecakesAtCheeseCakeFac
+* Declare variables named favNumber, yourShoeSize, thatOnePrinceSong, floorsAlaMoanaHotel, numOfJapanPrefectures, numOfABCstoresinHi, and cheesecakesFlavAtCheeseCakeFac
 *
 * Assign your own number values to each variable and console.log each variable.
 **/
@@ -39,26 +39,48 @@ console.log(pet);  // <= this should print out sebastian the pug
 * #3
 * Variables with a Boolean value
 *
-* Declare variables named `likesMcDonalds`, `watchedMrRobot`, `ranMarathon`, `wrestledABear`, `lovesDonuts`, `readHarryPotter`, `sleptInClass`, `drinksCoffee`, `shopsAtWholeFoods` and `ownsRedShoes`.     
+* Declare variables named likesMcDonalds, eatsDoughnuts and ownsRedShoes.
 *
-* Each value should be a Boolean
+* Assign your own boolean values to each variable and console.log each variable.
+*
+* 
+* Now, use comparison and logic operators (>, <, >=, <=, ===, !==) to make the following variables True of False
+*
+* Console.log each variable.
+*
 **/
+
+//For example:
+//Make me True:
+var booya1 = 3 > 2; 
+console.log(booya1);
+
+//Make me False:
+var booya2;
+
+//Make me True:
+var booya3;
+
+//Make me False:
+var booya4;
+
+//Make me True:
+var booya5; 
+
+//Make me False:
+var booya6;
+
 
 
 /**
 * #4
 * Variables with a Null value
 *
-* Declare variables named `completedPrepClass`, `traveledToMars` and `scoredTDinNFL`.
+* Declare variables named completedPrepClass, traveledToMars and buyVicADrink.
 *
-* Each value should be Null 
+* Assign a null value to each variable and console.log each variable. 
 **/
 
-
-/*
-#5. 
-* What is the difference between null and undefined? Type your answer in two or three commented-out sentences.
-*/
 
 
 /**
