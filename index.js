@@ -95,7 +95,7 @@ var booya6;
 
 
 
-/**
+/*
 * #6
 * Variables with an Array value
 * 
@@ -107,18 +107,19 @@ var booya6;
 * Declare a variable named `dynamicDuos` and assign it an array containing 3 arrays, with each array containing items that match with one another.
 *
 * Console.log each variable.
-**/
+*/
 
 
 
 /*7
-* Accessing Values in Arrays
+* Accessing values in Arrays
 
-var partyList = ["carrot cake", "rocky road ice cream", "mochiko chicken", "orange tang", "lemon bars"];
+var partyList = ["carrot cake", "gin & tonic", "kalua pork nachos", "double stuff oreos", "cool ranch doritos", "orange chicken"];
 
-What is the length of this array? Please print the length (a number) to the console.
-What is the index position of carrot cake? Please print this item to the console.
-What is the index position of lemon bars? Please print this item to the console.
+Console.log the entire array.
+Console.log the length of this array.
+Console.log only "carrot cake" from this array.
+Console.log only "cool ranch doritos" from this array
 */
 
 
