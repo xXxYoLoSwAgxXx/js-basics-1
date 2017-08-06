@@ -193,15 +193,31 @@ var booya10;
 /*
 * #12
 * Assignments
-* Variables with the outcome of an assignment operation:
+* Variables with the outcome of an assignment operation (+=, -=, *=, /=, %=):
 *
-* Declare a variable named `myBox` and assign it with a number of your choosing.
-* This variable will be used to store multiple types of values as we assign them to show how variables in JavaScript are not bound to a single data type
-* and can change values.
-
-* Write 5 different assignment statements and `console.log()` the value of the variable after each
-* assignment statement to show the current value. REMEMBER: an assignment is DIFFERENT from a declaration.
+* Declare a variable named `myNum` and assign it with a number of your choosing.
+* 
+* Change the value of the muNum variable by using the assignment operators and console.log myNum after each assignment.
 */
+
+
+
+
+//increment and assign 3 (+=):
+
+//decrement and assign 1 (-=):
+
+//multiple and assign 2 (*=);
+
+//divide and assign 5 (/=);
+
+//modulo and assign 4 (%=);
+
+
+
+
+
+
 
 /*
 * Final Boss 
