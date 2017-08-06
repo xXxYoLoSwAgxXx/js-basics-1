@@ -1,3 +1,11 @@
+// Comments are text that will not be executed in your code. Rather comments are for other programmers to read. 
+// Single line comments start with //
+/*Multiple line comments start with*/ /* and end with */ 
+
+/*Questions to all of exercises below are commented out. Write your Javascript code after each exercise.*/
+
+
+
 /* Variables and Data Types */
 /*Console.log each variable and test your code in the terminal using the Node REPL*/
 
