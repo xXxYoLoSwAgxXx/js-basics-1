@@ -23,7 +23,6 @@ console.log(pet);  // <= this should print out sebastian the pug
 */
 
 
-
 /*
 * #2
 * Variables with a Number value
@@ -32,7 +31,6 @@ console.log(pet);  // <= this should print out sebastian the pug
 *
 * Assign your own number values to each variable and console.log each variable.
 */
-
 
 
 /*
@@ -71,7 +69,6 @@ var booya5;
 var booya6;
 
 
-
 /*
 * #4
 * Variables with a Null value
@@ -82,7 +79,6 @@ var booya6;
 */
 
 
-
 /*
 * #5
 * Variables with a undefined value.
@@ -90,9 +86,7 @@ var booya6;
 * Declare a variable named superBowlChamps, nextPres and hawaiiRail.
 *
 * Do not assign a value to the variable and console.log each variable.
-*
 */
-
 
 
 /*
@@ -110,18 +104,15 @@ var booya6;
 */
 
 
-
 /*7
 * Accessing values in Arrays
-
-var partyList = ["carrot cake", "gin & tonic", "kalua pork nachos", "double stuff oreos", "cool ranch doritos", "orange chicken"];
+* var partyList = ["carrot cake", "gin & tonic", "kalua pork nachos", "double stuff oreos", "cool ranch doritos", "orange chicken"];
 
 Console.log the entire array.
 Console.log the length of this array.
 Console.log only "carrot cake" from this array.
 Console.log only "cool ranch doritos" from this array
 */
-
 
 
 /*
@@ -137,9 +128,9 @@ Console.log only "cool ranch doritos" from this array
 */
 
 
-
 /*
-* #9 Arithmetic
+* #9 
+* Arithmetic
 * Variables with the outcome of an arithmetic operation.
 * Declare two variables, `num1` and `num2` and assign each of these variables a number of your choosing.
 * Next perform the following arithmetic operations:
@@ -189,7 +180,6 @@ var booya10;
 //Console.log each variable
 
 
-
 /*
 * #12
 * Assignments
@@ -199,7 +189,6 @@ var booya10;
 * 
 * Change the value of the muNum variable by using the assignment operators and console.log myNum after each assignment.
 */
-
 
 
 
@@ -214,37 +203,44 @@ var booya10;
 //modulo and assign 4 (%=);
 
 
-
-
-
-
+/*===================================================================*/
 
 /*
 * Final Boss 
-* Additional exercises designed to further challenge you and give you a jump start on the next topic that'll be covered.
+
+* The following exercises are designed to further challenge you and give you a jump start on the next topic that'll be covered. Let the boss battle begin!
+*
 * Function - A block of code designed to perform a particular task. It allows you to reuse code.
 *
-* Declare a function named `bakePie` which has a single parameter 'ingredient'.
-* When the function is invoked, it should return a string, "Today's special ingredient pie." Where ingredient will be the value that you pass into the function.
-* For example, if the value is `blueberry`, it should return "Today's special blueberry pie."
-* Declare a variable 'pieResult' and assign it to the function call.
+* Declare a function named bakePie which has a single parameter ingredient.
+* 
+* When the function is invoked, it should return a string, "Today's special is ingredient pie." Where ingredient will be the value that you pass into the function.
+* 
+* For example, if the value is `blueberry`, it should return "Today's special is blueberry pie."
+* 
+* Declare a variable pieResult and assign it to the function call.
 * Console.log the variable to see the result.*/
 
 
 /*
-* Declare a Function named `jump` which has a single parameter, `height`.
+* Declare a Function named jump which has a single parameter, height.
+* 
 * This function should return a string, "You jumped height feet high!" Where height will be the value that you pass into the function.
+* 
 * For example, if the value is 9, it should return "You jumped 9 feet high!"
 
-
-
-* Declare a variable 'jumpResult' and assign it to the function call.
-* Console.log the variable to see the result.*/
+* Declare a variable jumpResult and assign it to the function call.
+* Console.log the variable to see the result.
+*/
 
 
 /*
-* Declare a Function named `cook` which a takes three parameters, `ingredient1`, `ingredient2`, `recipeName`.
-* This function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
-* if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
+* Declare a Function named makeFood which takes three parameters, ingredient1, ingredient2, recipeName.
+* 
+* This function should return a string ingredient1 and ingredient2 make a recipeName. Where ingredient1, ingredient2 and recipeName will be the values that you pass into the function.
+* 
+* For example, if the values are "Cheese", "Bacon", "pancake" it should return "Cheese and bacon make a pancake."
+*
+* Declare a variable foodResult and assign it to the function call. Console.log the variable to see the result.
 */
 
