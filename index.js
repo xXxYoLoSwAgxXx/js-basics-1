@@ -127,15 +127,13 @@ Console.log only "cool ranch doritos" from this array
 /*
 * #8 
 * Concatenation 
-* Concatenate the variables `firstName` and `lastName` and store this to a new variable called `fullName`.
-
-* Declare a new variable, `whereFrom`, and assign it the value of a string using the variables `fullName` and `birthPlace`:
- xx xx is from xx.
- e.g.
- Usain Bolt is from Jamaica.
- 
-*Declare a new variable, `mariahStory`. Assign it the value of concatenating the variables `mariahCareyAge`, `favSneaker`, `favLoveSong` and `coffeeShop` to create the following sentence:
-At the age of xx, Mariah Carey, wearing her fancy xx, sang xx at the xx.
+* Concatenate the variables `firstName` and `lastName` from exercise 1 and store them into a new variable called `fullName` (don't forget to include a space between the firstName and lastName).
+*
+* Using the fullName and birthPlace variables, console.log the following:
+*
+* "Hi my name is fullName and I was born in birthPlace." 
+*
+* i.e "Hi my name is Bruce Wayne and I was born in Gotham."
 */
 
 
