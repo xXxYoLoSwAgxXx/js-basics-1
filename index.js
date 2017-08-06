@@ -159,26 +159,39 @@ Console.log only "cool ranch doritos" from this array
 * Comparisons & Logic
 * Variables with the outcome of a comparison operation:
 *
-* Declare a variable named `isStrictlyEqual` and compare two strings "Tacocat" and "tacocat" using the strict equality.
-* Declare another variable named `isLooselyEqual` and compare the two strings "Tacocat" and "tacocat" using equality.
-* Print both variables to the console. If the answers are different, why? If not, why not? Write you answer two or three commented-out sentences.
+* Declare a variable named `isStrictlyEqual` and compare two strings "Tacocat" and "tacocat" using the strict equality (===).
+* Declare another variable named `isLooselyEqual` and compare the two strings "Tacocat" and "tacocat" using equality (==).
 
 * Declare a variable named `sameNum` and compare a string "5" and a number 5 using strict equality.
 * Declare another variable named `sameNumba` and compare a string "5" and a number 5 using equality.
-* Print both variables to the console. If the answers are different, why? If not, why not? Write you answer two or three commented-out sentences.
+* Console.log the variables. Do you see the difference between strict equality vs. equality?
 */
 
-/*
-* Use the logical && or || and compare the following:
-* 3>2 3<1 (use or)
-* 3>2 6>3 (use and)
-* 7>2 8<5 (use and)
-* Declare variables and print the results to the console. What are the differences between the three and why?*/
 
-
-
-/*
+/* 
 * #11
+* Logical AND Logical OR
+* Use comparison and logic operators (>, <, >=, <=, ===, !==) with the logical && and logical || to make the following variables True of False:
+*/
+
+//Use && to make me True
+var booya7;
+
+//Use && to make me False
+var booya8;
+
+//Use || to make me True
+var booya9;
+
+//Use || to make me False
+var booya10;
+
+//Console.log each variable
+
+
+
+/*
+* #12
 * Assignments
 * Variables with the outcome of an assignment operation:
 *
