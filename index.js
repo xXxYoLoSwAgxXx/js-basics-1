@@ -1,9 +1,8 @@
 // Comments are text that will not be executed in your code. Rather comments are for other programmers to read. 
 // Single line comments start with //
-/*Multiple line comments start with*/ /* and end with */ 
+/* Multiple line comments start with*/ /* and end with */ 
 
-/*Questions to all of exercises below are commented out. Write your Javascript code after each exercise.*/
-
+/* All of the exercises below are commented out. Write your Javascript code after each exercise. */
 
 
 /* Variables and Data Types */
@@ -12,16 +11,16 @@
 /*i.e.*/
 
 var pet = "sebastian the pug";
-console.log(pet);
+console.log(pet);  // <= this should print out sebastian the pug
 
 /**
 * #1
-* Variables with a String value
-*
-* Declare variables named `firstName`, `lastName`, `birthPlace`, `favoriteFood`, `bestMovie`, `favLoveSong`, `cuteAnimal`, `favColor`, `favSneaker`, `coffeeShop`.
-* Assign values to these variables with your own data.
-*
-* Each value should be a String. 
+* Variables with a "String" value
+
+* Declare variables named firstName, lastName, birthPlace, favFood, favDrink, favSong, favAnimal, favColor, favSport, favDoughnut.
+
+* Assign your own string values to each variable and console.log each variable.
+
 **/
 
 
