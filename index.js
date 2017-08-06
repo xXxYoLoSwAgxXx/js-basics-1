@@ -144,11 +144,13 @@ Console.log only "cool ranch doritos" from this array
 * Declare two variables, `num1` and `num2` and assign each of these variables a number of your choosing.
 * Next perform the following arithmetic operations:
 
-* Add the two variables and store it to new variable named `sum`.
-* Subtract the two variables and store it to a new variable named `difference`.
-* Mulitply the two variables and store it to a new variable named `product`.
-* Divide the two variables and store it to a new variable named `quotient`.
-* What is the remainder when you divide num1 by num2? Print your answer to the console.
+* Add the two variables and store it to new variable named sum.
+* Subtract the two variables and store it to a new variable named difference.
+* Mulitply the two variables and store it to a new variable named product.
+* Divide the two variables and store it to a new variable named quotient.
+* Find the remainder (modulus) of the two variables and store in to a new variable names leftOver.
+*
+* Console.log each new variable.
 */
 
 
