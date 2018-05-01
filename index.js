@@ -22,6 +22,26 @@ console.log(pet);  // <= this should print out sebastian the pug
 * Assign your own string values to each variable and console.log each variable.
 */
 
+var firstName = 'isaiah';
+console.log(firstName);
+var lastName = 'harris';
+console.log(lastName)
+var birthPlace = 'cali';
+console.log(birthPlace);
+var favFood = 'sushi';
+console.log(favFood);
+var favDrink = 'water';
+console.log(favDrink);
+var favSong = 'X';
+console.log(favSong);
+var favAnimal = 'dog';
+console.log(favAnimal);
+var favColor = 'green';
+console.log(favColor);
+var favSport = 'soccer';
+console.log(favSport);
+var favDoughnut = 'jelly';
+console.log(favDoughnut);
 
 /*
 * #2
@@ -32,6 +52,20 @@ console.log(pet);  // <= this should print out sebastian the pug
 * Assign your own number values to each variable and console.log each variable.
 */
 
+var favNumber = 6;
+console.log(favNumber);
+var yourShoeSize = 10;
+console.log(yourShoeSize);
+var thatOnePrinceSong = 7;
+console.log(thatOnePrinceSong);
+var floorsAlaMoanaHotel = 38;
+console.log(floorsAlaMoanaHotel);
+var numOfJapanPrefectures = 47;
+console.log(numOfJapanPrefectures);
+var numOfABCstoresinHi = 57;
+console.log(numOfABCstoresinHi);
+var cheesecakesFlavAtCheeseCakeFac = 34;
+console.log(cheesecakesFlavAtCheeseCakeFac);
 
 /*
 * #3
@@ -47,6 +81,10 @@ console.log(pet);  // <= this should print out sebastian the pug
 * Console.log each variable.
 *
 */
+
+var likesMcDonalds = false;
+console.log(likesMcDonalds);
+var
 
 //For example:
 //Make me True:
