@@ -75,7 +75,7 @@ console.log(cheesecakesFlavAtCheeseCakeFac);
 *
 * Assign your own boolean values to each variable and console.log each variable.
 *
-* 
+
 * Now, use comparison and logic operators (>, <, >=, <=, ===, !==) to make the following variables True of False
 *
 * Console.log each variable.
@@ -84,7 +84,10 @@ console.log(cheesecakesFlavAtCheeseCakeFac);
 
 var likesMcDonalds = false;
 console.log(likesMcDonalds);
-var
+var eatsDoughnuts = true;
+console.log(eatsDoughnuts);
+var ownsRedShoes = false;
+console.log(ownsRedShoes);
 
 //For example:
 //Make me True:
@@ -92,19 +95,22 @@ var booya1 = 3 > 2;
 console.log(booya1);
 
 //Make me False:
-var booya2;
+var booya2 = 3 < 2;		
+console.log(booya2);	
 
 //Make me True:
-var booya3;
-
+var booya3 = 1 < 4;
+console.log(booya3);
 //Make me False:
-var booya4;
-
+var booya4 = 4 > 5;
+console.log(booya4);
 //Make me True:
-var booya5; 
+var booya5 = 5 <= 5;
+console.log(booya5); 
 
 //Make me False:
-var booya6;
+var booya6 = 5 <= 6;
+console.log(booya6);
 
 
 /*
@@ -115,7 +121,12 @@ var booya6;
 *
 * Assign a null value to each variable and console.log each variable. 
 */
-
+var completedPrepClass = null;
+console.log(completedPrepClass);
+var traveledToMars = null;
+console.log(traveledToMars);
+var buyVicADrink = undefined;
+console.log(buyVicADrink);
 
 /*
 * #5
@@ -126,6 +137,12 @@ var booya6;
 * Do not assign a value to the variable and console.log each variable.
 */
 
+var superBowlChamps ;
+console.log(superBowlChamps);
+var nextPres;
+console.log(nextPres);
+var hawaiiRail;
+console.log(hawaiiRail);
 
 /*
 * #6
